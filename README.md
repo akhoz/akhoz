@@ -1,5 +1,5 @@
 <h1>About me</h1>
-<p>👋 Hi, I'm akhoz, just a guy who ended up with a GitHub account.</p>
+<p>👋 Hi, I'm Adrián, just a guy who ended up with a GitHub account.</p>
 <p>👀 I'm interested in learning more about computer science but don't know in which area yet.</p>
 <p>🌱 I’m currently learning C++ and some frontend web development technologies.</p>
 <p>📫 You can reach me via Discord (username -> <a href= "https://discord.com/users/652975139314597888">akhoz</a>) or even Twitter (username -> <a href= "https://twitter.com/akhoz69">@akhoz69</a>). Notice that I speak English and Spanish as well.</p>
