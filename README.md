@@ -1,7 +1,7 @@
 <h1>About me</h1>
 <p>👋 Hey, I'm Adrián, just a guy who ended up with a GitHub account.</p>
 <p>👀 I'm interested in learning more about computer science but don't know in which area yet.</p>
-<p>🌱 I’m currently learning C++, Java and some other technologies.</p>
+<p>🌱 I’m currently learning Videogames development, Web technologies and some other stuff.</p>
 <p>📫 You can reach me via Email (<a href= "mailto:akhozdev@gmail.com">akhozdev@gmail.com</a>), Discord (<a href= "https://discord.com/users/652975139314597888">akhoz</a>) or even Twitter (<a href= "https://twitter.com/akhoz69">@akhoz69</a>). Notice that I speak English and Spanish as well.</p>
 
 <h1>Technologies I know or I'm currently working on</h1>
