@@ -18,7 +18,7 @@
 <h1>Technologies I know or I'm currently working on</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,cs,css,firebase,git,github,html,java,js,kotlin,md,nodejs,py,react,tailwind,unity,vite" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,cs,css,firebase,git,github,html,java,js,kotlin,md,nodejs,py,react,tailwind,unity,vite" />
   </a>
 </p>
 
