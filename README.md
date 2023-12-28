@@ -1,7 +1,7 @@
 <h1>About me</h1>
 <p>👋 Hey, I'm Adrián, just a guy who ended up with a GitHub account.</p>
 <p>👀 I'm interested in learning more about computer science but don't know in which area yet.</p>
-<p>🌱 I’m currently learning Videogames development, Web technologies and some other stuff.</p>
+<p>🌱 I’m currently learning Machine Learning, Web technologies and some other stuff.</p>
 <p>📚 I’m currently in my second year studying software engineering at ITCR.</p>
 <p>💬 As a matter of fact, I speak both English and Spanish, and I'm currently learning Portuguese.</p>
 
@@ -15,7 +15,7 @@
 <a href="https://discord.gg/https://discord.com/users/652975139314597888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/652975139314597888" height="40" width="40" /></a>
 </p>
 
-<h1>Technologies I know or I'm currently working on</h1>
+<h1>Technologies I have worked with</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,cs,css,firebase,git,github,html,java,js,kotlin,md,nodejs,py,react,tailwind,unity,vite" />
