@@ -21,7 +21,7 @@
     <img src="https://skillicons.dev/icons?i=androidstudio" />
   </a>
   <a href="https://devdocs.io/c/">
-    <img src="https://skillicons.dev/icons?i=androidstudio" />
+    <img src="https://skillicons.dev/icons?i=c" />
   </a>
 </p>
 
