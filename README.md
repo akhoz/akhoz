@@ -16,7 +16,7 @@
 </p>
 
 <h1>Technologies I Use Regularly</h1>
-<p align="center">
+<p>
   
   <!-- CSS -->
   <a href="https://devdocs.io/css/">
@@ -81,7 +81,7 @@
 </p>
 
 <h1>Technologies I have worked with</h1>
-<p align="center">
+<p>
 
   <!-- Android Studio -->
   <a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjw-r-vBhC-ARIsAGgUO2DItbd5Mn52mxXB4pBfuNK4TlRf9WrwLR5xvQTCK5CvucBDrO0EgScaAmC_EALw_wcB&gclsrc=aw.ds">
@@ -120,7 +120,7 @@
 </p>
 
 <h1>Other tools</h1>
-<p align="center">
+<p>
   
   <!-- Git -->
   <a href="https://git-scm.com/doc">
