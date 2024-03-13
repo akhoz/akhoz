@@ -1,4 +1,4 @@
-![image](https://github.com/akhoz/akhoz/assets/129908627/87caf099-b7f0-43cb-9501-f47116c85981)<h1>About me</h1>
+<h1>About me</h1>
 <p>👋 Hey, I'm Adrián, just a guy who ended up with a GitHub account.</p>
 <p>👀 I'm interested in learning more about computer science but don't know in which area yet.</p>
 <p>🌱 I’m currently learning Machine Learning, Web technologies and some other stuff.</p>
