@@ -38,11 +38,6 @@
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
 
-  <!-- Markdown -->
-  <a href="https://www.markdownguide.org/">
-    <img src="https://skillicons.dev/icons?i=md" />
-  </a>
-
   <!-- NodeJS -->
   <a href="https://nodejs.org/docs/latest/api/">
     <img src="https://skillicons.dev/icons?i=nodejs" />
@@ -125,6 +120,11 @@
   <!-- Git -->
   <a href="https://git-scm.com/doc">
     <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+
+  <!-- Markdown -->
+  <a href="https://www.markdownguide.org/">
+    <img src="https://skillicons.dev/icons?i=md" />
   </a>
 
   <!-- Neovim -->
