@@ -17,8 +17,11 @@
 
 <h1>Technologies I have worked with</h1>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,cs,css,firebase,git,github,html,java,js,kotlin,md,neovim,nodejs,linux,py,react,sklearn,tailwind,tensorflow,unity,vite" />
+  <a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjw-r-vBhC-ARIsAGgUO2DItbd5Mn52mxXB4pBfuNK4TlRf9WrwLR5xvQTCK5CvucBDrO0EgScaAmC_EALw_wcB&gclsrc=aw.ds">
+    <img src="https://skillicons.dev/icons?i=androidstudio" />
+  </a>
+  <a href="https://devdocs.io/c/">
+    <img src="https://skillicons.dev/icons?i=androidstudio" />
   </a>
 </p>
 
