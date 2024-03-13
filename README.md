@@ -1,4 +1,4 @@
-<h1>About me</h1>
+![image](https://github.com/akhoz/akhoz/assets/129908627/87caf099-b7f0-43cb-9501-f47116c85981)<h1>About me</h1>
 <p>👋 Hey, I'm Adrián, just a guy who ended up with a GitHub account.</p>
 <p>👀 I'm interested in learning more about computer science but don't know in which area yet.</p>
 <p>🌱 I’m currently learning Machine Learning, Web technologies and some other stuff.</p>
@@ -17,13 +17,119 @@
 
 <h1>Technologies I have worked with</h1>
 <p align="center">
+
+  <!-- Android Studio -->
   <a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjw-r-vBhC-ARIsAGgUO2DItbd5Mn52mxXB4pBfuNK4TlRf9WrwLR5xvQTCK5CvucBDrO0EgScaAmC_EALw_wcB&gclsrc=aw.ds">
     <img src="https://skillicons.dev/icons?i=androidstudio" />
   </a>
+
+  <!-- C -->
   <a href="https://devdocs.io/c/">
     <img src="https://skillicons.dev/icons?i=c" />
   </a>
+
+  <!-- C++ -->
+  <a href="https://devdocs.io/cpp/">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  
+  <!-- C# -->
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://skillicons.dev/icons?i=cs" />
+  </a>
+
+  <!-- CSS -->
+  <a href="https://devdocs.io/css/">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/products/realtime-database/">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/doc">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+
+  <!-- Java -->
+  <a href="https://docs.oracle.com/en/java/">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://devdocs.io/javascript/">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org/docs/home.html">
+    <img src="https://skillicons.dev/icons?i=kotlin" />
+  </a>
+
+  <!-- Markdown -->
+  <a href="https://www.markdownguide.org/">
+    <img src="https://skillicons.dev/icons?i=md" />
+  </a>
+
+  <!-- Neovim -->
+  <a href="https://neovim.io/doc/">
+    <img src="https://skillicons.dev/icons?i=neovim" />
+  </a>
+
+  <!-- NodeJS -->
+  <a href="https://nodejs.org/docs/latest/api/">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+
+  <!-- Linux -->
+  <a href="https://docs.kernel.org/">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+
+  <!-- Python -->
+  <a href="https://docs.python.org/3/">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+
+  <!-- React -->
+  <a href="https://legacy.reactjs.org/docs/getting-started.html">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+
+  <!-- Sklearn -->
+  <a href="https://scikit-learn.org/stable/">
+    <img src="https://skillicons.dev/icons?i=sklearn" />
+  </a>
+
+  <!-- Tailwind CSS -->
+  <a href="https://v2.tailwindcss.com/docs">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org/api_docs">
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+  </a>
+
+  <!-- Unity -->
+  <a href="https://docs.unity.com/">
+    <img src="https://skillicons.dev/icons?i=unity" />
+  </a>
+
+  <!-- Vite -->
+  <a href="https://vitejs.dev/">
+    <img src="https://skillicons.dev/icons?i=vite" />
+  </a>
+  
 </p>
+
 
 <h1>GitHub Stats</h1>
 <div align="center">
