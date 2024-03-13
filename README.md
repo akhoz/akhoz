@@ -120,7 +120,7 @@
 </p>
 
 <h1>Other tools</h1>
-<p aling="center">
+<p align="center">
   
   <!-- Git -->
   <a href="https://git-scm.com/doc">
