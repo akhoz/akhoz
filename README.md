@@ -43,6 +43,11 @@
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
 
+  <!-- OpenCV -->
+  <a href="https://opencv.org/">
+    <img src="https://skillicons.dev/icons?i=opencv" />
+  </a>
+
   <!-- Python -->
   <a href="https://docs.python.org/3/">
     <img src="https://skillicons.dev/icons?i=py" />
