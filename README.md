@@ -16,7 +16,7 @@
 </p>
 
 <h1>Technologies I Use Regularly</h1>
-<p align="center>
+<p align="center">
   
   <!-- CSS -->
   <a href="https://devdocs.io/css/">
@@ -108,14 +108,23 @@
     <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
 
-  <!-- Git -->
-  <a href="https://git-scm.com/doc">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-
   <!-- Kotlin -->
   <a href="https://kotlinlang.org/docs/home.html">
     <img src="https://skillicons.dev/icons?i=kotlin" />
+  </a>
+
+  <!-- Unity -->
+  <a href="https://docs.unity.com/">
+    <img src="https://skillicons.dev/icons?i=unity" />
+  </a>
+</p>
+
+<h1>Other tools</h1>
+<p aling="center">
+  
+  <!-- Git -->
+  <a href="https://git-scm.com/doc">
+    <img src="https://skillicons.dev/icons?i=git" />
   </a>
 
   <!-- Neovim -->
@@ -126,11 +135,6 @@
   <!-- Linux -->
   <a href="https://docs.kernel.org/">
     <img src="https://skillicons.dev/icons?i=linux" />
-  </a>
-
-  <!-- Unity -->
-  <a href="https://docs.unity.com/">
-    <img src="https://skillicons.dev/icons?i=unity" />
   </a>
   
 </p>
