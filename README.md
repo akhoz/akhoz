@@ -1,9 +1,9 @@
 <h1>About me</h1>
 <p>👋 Hey, I'm Adrián, just a guy who ended up with a GitHub account.</p>
-<p>👀 I'm interested in learning more about computer science but don't know in which area yet.</p>
-<p>🌱 I’m currently learning Machine Learning, Web technologies and some other stuff.</p>
-<p>📚 I’m currently in my second year studying software engineering at ITCR.</p>
-<p>💬 As a matter of fact, I speak both English and Spanish, and I'm currently learning Portuguese.</p>
+<p>👀 I'm interested in learning more about computer science. I want to specialize in AI.</p>
+<p>🌱 I’m currently learning Machine Learning, Deep Learning, Web technologies and some other stuff.</p>
+<p>📚 I’m currently in my second year studying in software engineering at ITCR.</p>
+<p>💬 As a matter of fact, I speak both English and Spanish.</p>
 
 <h1>Contact me</h1>
 <p>📫 You can reach me via email at <a href= "mailto:akhozdev@gmail.com">akhozdev@gmail.com</a>. You can also use my social media accounts below for more informal occasions, preferably via DM on Twitter. </p>
