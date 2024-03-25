@@ -54,7 +54,7 @@
   </a>
 
   <!-- React -->
-  <a href="https://legacy.reactjs.org/docs/getting-started.html">
+  <a href="https://react.dev/blog/2023/03/16/introducing-react-dev">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
 
