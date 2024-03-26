@@ -143,10 +143,3 @@
   </a>
   
 </p>
-
-
-<h1>GitHub Stats</h1>
-<div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhoz&show_icons=true&theme=dark&cache_seconds=10&locale=en&layout=compact" alt="akhoz" width="300" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhoz&theme=dark" alt="akhoz" width="420" />
-</div>
